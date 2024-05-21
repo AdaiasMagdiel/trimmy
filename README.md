@@ -1,4 +1,4 @@
-## trimmy
+## Trimmy
 
 This C program, `trimmy`, helps you verify trailing whitespaces at the end of lines in files. It's designed to be cross-platform and works on both Linux and Windows.
 
